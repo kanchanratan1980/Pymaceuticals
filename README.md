@@ -22,7 +22,7 @@ with squamouse cell carcinoma (scc). the primary Focus on Campomulin, comparing 
 2. Restart kernal.
 3. Analyze the output & Visulization.
 **Conclusion:**  capomulin appear to be a strong Treatment for further trials.  
-5.   
+   
 
 
 
